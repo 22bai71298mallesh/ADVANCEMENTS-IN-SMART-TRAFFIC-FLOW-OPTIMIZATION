@@ -1,0 +1,29 @@
+This paper proposes an Advanced Smart Traffic
+Management System (ASTMS) leveraging advanced Internet of
+Things (IoT) sensors, real-time computer vision, and predictive
+analytics to address urban traffic congestion. This work
+combines the Kalman Filter and the You Only Look Once (YOLO)
+algorithm to create a real-time vehicle identification, tracking,
+and counting system. Utilizing YOLO (You Only Look Once) for
+real-time vehicle detection and Kalman Filters for predictive
+traffic light control, the STMS maximizes traffic efficiency and
+congestion relief. The system applies weather analytics, eventbased rerouting, and emergency vehicle priority for enhanced
+safety and mobility. Long Short-Term Memory (LSTM) networks
+are utilized to predict traffic patterns for proactive signal
+control. An easy-to-use mobile app provides real-time traffic
+status, recommends alternate routes, and incorporates a
+feedback module for continuous improvement. The proposed
+initiative advances the Sustainable Development Goals (SDGs)
+through the promotion of environmentally sustainable traffic
+management, reduced emissions, and enhanced
+responsiveness in emergencies. An easy-to-use mobile app
+provides real-time traffic status, recommends alternate routes,
+and incorporates a feedback module for continuous
+improvement. The proposed initiative advances the Sustainable
+Development Goals (SDGs) through the promotion of
+environmentally sustainable traffic management, reduced
+emissions, and enhanced responsiveness in emergencies. The
+STMS is a major step toward constructing “smart cities with
+intelligent, adaptive, and sustainable traffic policy.”
+Keywords: Sensors, Variable message sign board (VMS), Kalman
+filter
